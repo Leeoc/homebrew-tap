@@ -1,6 +1,6 @@
 cask "devrings" do
-  version "0.1.0"
-  sha256 "4bd8712d89d452264f2aedcc6df71d8752a88cc89fa05f72a06d003ad489bd79"
+  version "0.2.0"
+  sha256 "153826381d20962435e7a22b974089f0719cc6b95174461d60d086397de83906"
 
   url "https://github.com/Leeoc/devrings/releases/download/v#{version}/DevRings-#{version}.zip"
   name "DevRings"
